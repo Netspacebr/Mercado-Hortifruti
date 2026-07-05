@@ -1,0 +1,6 @@
+{
+  "name": "Supermercado Web App",
+  "description": "A PWA for a local supermarket that allows customers to browse products, create a shopping cart, and send their order via WhatsApp. The entire application is managed through a Google Sheet backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
